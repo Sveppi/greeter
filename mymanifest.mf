@@ -1,2 +1,5 @@
 Manifest-Version: 1.0
-Main-Class: is.hi.
+Main-Class: is.hi.hbv202g.svs37.ass3.Main
+Created-By:
+
+

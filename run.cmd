@@ -1,2 +1,1 @@
-java -cp ./bin Main
-
+java -cp bin is/hi/svs37/hbv202g/ass3.Main
