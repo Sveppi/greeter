@@ -1,4 +1,4 @@
-package is.hi.hbv202g.ass3.frontend;
+package is.hi.svs37.hbv202g.ass3.frontend;
 
 public class UserInterface {
     public void show(String greeting) {

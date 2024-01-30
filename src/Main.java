@@ -1,5 +1,5 @@
-import is.hi.hbv202g.ass3.backend.Greeter;
-import is.hi.hbv202g.ass3.frontend.UserInterface;
+import is.hi.svs37.hbv202g.ass3.backend.Greeter;
+import is.hi.svs37.hbv202g.ass3.frontend.UserInterface;
 
 public class Main {
 
