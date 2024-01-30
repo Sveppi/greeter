@@ -1,2 +1,9 @@
 # Compiled class file
 *.class
+
+### VS Code ###
+.vscode/
+
+### macOS extra files
+*/.DS_Store
+.DS_Store

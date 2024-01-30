@@ -1,3 +1,4 @@
+package src;
 public class UserInterface {
     public void show(String greeting) {
         System.out.println("*******************");
