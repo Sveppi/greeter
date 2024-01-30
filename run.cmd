@@ -1,2 +1,2 @@
-java -cp ./bin src.Main
+java -cp ./bin Main
 

@@ -1,4 +1,6 @@
-package src;
+import is.hi.hbv202g.ass3.backend.Greeter;
+import is.hi.hbv202g.ass3.frontend.UserInterface;
+
 public class Main {
 
     public static void main(String[] args) {
