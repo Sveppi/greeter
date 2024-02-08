@@ -7,3 +7,7 @@
 ### macOS extra files
 */.DS_Store
 .DS_Store
+
+### Ignore bin
+/bin/*
+/bin
