@@ -1,4 +1,4 @@
-sourcecompile.cmd
+source compile.cmd
 
 cd bin
 
